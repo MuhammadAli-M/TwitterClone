@@ -1,4 +1,4 @@
 # TwitterClone
-Twitter like app 
+Twitter-like app 
 
 This is a course-based app. 
